@@ -7,14 +7,8 @@ Sure, here's a description for your GitHub project, an Amazon clone created usin
 
 - **Product Listings:** Explore a range of products presented in a grid layout similar to Amazon's product pages. Each listing is accompanied by product images, titles, prices, and user ratings.
 
-- **Navigation Bar:** Just like the real Amazon website, this clone features a top navigation bar that includes links to different sections of the site, such as Home, Products, Cart, and Account.
-
-- **Product Details:** Clicking on a product leads you to its dedicated details page, providing more information about the item. This page includes a larger product image, detailed description, customer reviews, and an "Add to Cart" button.
-
-- **Shopping Cart:** Experience the shopping process by adding products to your virtual cart. The cart icon at the top right corner displays the current number of items in the cart. Clicking on it reveals a dropdown displaying the added items.
-
-- **Checkout Flow:** Proceed through a simplified checkout process, which includes entering shipping information and reviewing the order before finalizing the purchase.
-
+- **Navigation Bar:** Just like the real Amazon website, this clone features a top navigation bar that includes different sections of the site, such as Home, Products, Cart, and Account.
+- 
 - **CSS Styling:** The project showcases my CSS skills by accurately replicating Amazon's visual design, including fonts, colors, and layout.
 
 - **Interactive Elements:** Experience interactive elements like buttons that change appearance upon hover and other dynamic UI components.
