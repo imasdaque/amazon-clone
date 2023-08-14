@@ -8,7 +8,6 @@ Sure, here's a description for your GitHub project, an Amazon clone created usin
 - **Product Listings:** Explore a range of products presented in a grid layout similar to Amazon's product pages. Each listing is accompanied by product images, titles, prices, and user ratings.
 
 - **Navigation Bar:** Just like the real Amazon website, this clone features a top navigation bar that includes different sections of the site, such as Home, Products, Cart, and Account.
-- 
 - **CSS Styling:** The project showcases my CSS skills by accurately replicating Amazon's visual design, including fonts, colors, and layout.
 
 - **Interactive Elements:** Experience interactive elements like buttons that change appearance upon hover and other dynamic UI components.
