@@ -3,7 +3,7 @@ Welcome to my Amazon Clone project! This repository houses a dynamic and visuall
 Sure, here's a description for your GitHub project, an Amazon clone created using HTML and CSS:
 
 **Key Features:**
-- **Responsive Design:** The Amazon Clone is designed to adapt seamlessly to various screen sizes, ensuring a consistent and user-friendly experience across devices, from desktops to mobile phones.
+- **Responsive Design:** The Amazon Clone is designed to adapt seamlessly to various screen sizes, ensuring a consistent and user-friendly experience across devices, from destops.
 
 - **Product Listings:** Explore a range of products presented in a grid layout similar to Amazon's product pages. Each listing is accompanied by product images, titles, prices, and user ratings.
 
