@@ -1,4 +1,6 @@
 # amazon-clone
+![Uploading Amazon Screenshot.png…]()
+
 Welcome to my Amazon Clone project! This repository houses a dynamic and visually appealing website that closely emulates the renowned Amazon e-commerce platform. Built entirely using HTML and CSS, this project showcases my web development skills and attention to detail in replicating Amazon's user interface.
 Sure, here's a description for your GitHub project, an Amazon clone created using HTML and CSS:
 
@@ -25,4 +27,9 @@ Contributions, suggestions, and feedback are welcome! Feel free to fork the repo
 - CSS
 
 Explore this Amazon Clone and get a firsthand experience of the world of web development. Whether you're a budding developer looking to learn more about front-end design or simply interested in seeing a familiar interface recreated, this project offers an engaging journey into the realm of HTML and CSS web development.
+Connect with Me
+Let's connect! Feel free to reach out to me via email or connect with me on LinkedIn.
+
+Thank you for visiting 🚀
+
 
