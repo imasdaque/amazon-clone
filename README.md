@@ -1,3 +1,4 @@
 # amazon-clone
-![Uploading image.png…]()
+![Uploading Screenshot 2023-08-14 164051.png…]()
+
 
