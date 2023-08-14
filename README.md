@@ -27,7 +27,7 @@ Contributions, suggestions, and feedback are welcome! Feel free to fork the repo
 - CSS
 
 Explore this Amazon Clone and get a firsthand experience of the world of web development. Whether you're a budding developer looking to learn more about front-end design or simply interested in seeing a familiar interface recreated, this project offers an engaging journey into the realm of HTML and CSS web development.
-Connect with Me
+**Connect with Me**
 Let's connect! Feel free to reach out to me via email or connect with me on LinkedIn.
 
 Thank you for visiting 🚀
