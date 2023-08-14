@@ -15,7 +15,7 @@ Sure, here's a description for your GitHub project, an Amazon clone created usin
 **How to Use:**
 1. Clone the repository to your local machine.
 2. Open the HTML files in a web browser to explore the different sections of the Amazon Clone.
-3. Navigate through product listings, view product details, add items to the cart, and simulate the checkout process.
+
 
 **Contributions:**
 Contributions, suggestions, and feedback are welcome! Feel free to fork the repository, make changes, and submit pull requests to enhance the project further.
