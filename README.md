@@ -1,11 +1,12 @@
 # amazon-clone
-![Uploading Amazon Screenshot.png…]()
+![Amazon Screenshot](https://github.com/imasdaque/amazon-clone/assets/110887123/e727abf7-6d28-45d5-97b7-e9dc818ad4ba)
+
 
 Welcome to my Amazon Clone project! This repository houses a dynamic and visually appealing website that closely emulates the renowned Amazon e-commerce platform. Built entirely using HTML and CSS, this project showcases my web development skills and attention to detail in replicating Amazon's user interface.
 Sure, here's a description for your GitHub project, an Amazon clone created using HTML and CSS:
 
 **Key Features:**
-- **Responsive Design:** The Amazon Clone is designed to adapt seamlessly to various screen sizes, ensuring a consistent and user-friendly experience across devices, from destops.
+- **Responsive Design:** The Amazon Clone is designed to adapt seamlessly to various screen sizes, ensuring a consistent and user-friendly experience across devices, from desktops.
 
 - **Product Listings:** Explore a range of products presented in a grid layout similar to Amazon's product pages. Each listing is accompanied by product images, titles, prices, and user ratings.
 
