@@ -30,7 +30,7 @@ Contributions, suggestions, and feedback are welcome! Feel free to fork the repo
 Explore this Amazon Clone and get a firsthand experience of the world of web development. Whether you're a budding developer looking to learn more about front-end design or simply interested in seeing a familiar interface recreated, this project offers an engaging journey into the realm of HTML and CSS web development.
 
 **Connect with Me:**
-Let's connect! Feel free to reach out to me via email or connect with me on LinkedIn.
+Let's connect! Feel free to reach out to me via <a href="mailto:asdaquealam@gmail.com">email</a> or connect with me on <a href = "https://www.linkedin.com/in/asdaque-alam-31933220a/">LinkedIn</a>
 
 Thank you for visiting 🚀
 
